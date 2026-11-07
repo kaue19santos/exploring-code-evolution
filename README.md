@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/angular/angular
+2. Gráfico selecionado: <img width="719" height="347" alt="Screenshot 2026-11-06 at 21 10 22" src="https://github.com/user-attachments/assets/2512af84-c9ed-4892-8f73-b1c06c6a4587" />
+3. Explicação: O gráfico apresenta a evolução da média de linhas de código por arquivo TypeScript no projeto Angular, entre 2021 e 2026. É possível observar um crescimento moderado entre 2021 e 2023, seguido por uma redução em 2024. Entretanto, a partir de 2025, ocorre um aumento expressivo, passando de aproximadamente 118 para 179 linhas por arquivo em 2026, representando um crescimento de aproximadamente 51% em relação a 2024. Esse comportamento pode ser analisado considerando o contexto de transformação das ferramentas de desenvolvimento. A partir de 2021, ferramentas como GitHub Copilot começaram a popularizar a geração automática de código. Posteriormente, com a chegada do ChatGPT, do GitHub Copilot Chat e de ferramentas mais avançadas, como Claude Code, a utilização de inteligência artificial no desenvolvimento de software ganhou novas possibilidades. É interessante observar que o crescimento mais expressivo da média de linhas por arquivo acontece justamente durante esse período de popularização das ferramentas de IA generativa. Isso levanta a hipótese de que a evolução dessas ferramentas possa ter influenciado a produtividade e a maneira como o código é produzido. Entretanto, não é possível estabelecer uma relação direta de causalidade entre esses acontecimentos e os dados apresentados. O crescimento também pode estar relacionado a novas funcionalidades, refatorações, mudanças arquiteturais e outras decisões tomadas pela equipe de desenvolvimento do Angular.
 
 
 
